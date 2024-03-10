@@ -1,4 +1,4 @@
 # First DDS Git Project
 
-<!-- v1 gave the best score -->
-<!-- v1 = Random Forrest Classifier without scaled data -->
+<!-- v9 gave the best score -->
+<!-- v9 = Gradient Boosting Classifier with min-max scaled data -->
